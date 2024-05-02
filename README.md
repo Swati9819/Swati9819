@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native and React Js<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with Native Modules (Android & iOS)<br>🌱 I’m currently learning Swift<br>💬 Ask me about Payment Integration, Deeplink with custom domain, DRM Offline downloads<br>⚡ Fun fact
+🔭 I’m currently working on React Native and React Js<br>👯 I’m looking to collaborate on open source<br>🤝 I’m looking for help with Native Modules (Android & iOS)<br>🌱 I’m currently learning Swift<br>💬 Ask me about Payment Integration, Deeplink with custom domain, DRM Offline downloads<br>
 
 
 ## 🌐 Socials:
